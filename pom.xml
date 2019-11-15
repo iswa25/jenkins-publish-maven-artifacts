@@ -16,6 +16,16 @@
 	</modules>
 	
 	
+	 <repositories>
+        <repository>
+            <id>rep-0</id>
+            <url>http://localhost:8081/nexus/content/repositories/rep-0/</url>
+            
+        </repository>
+    </repositories>
+
+	
+	
 	
 	
 	
